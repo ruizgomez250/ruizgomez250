@@ -1,16 +1,57 @@
-## Hi there 👋
 
-<!--
-**ruizgomez250/ruizgomez250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Jorge Ruiz 👋
 
-Here are some ideas to get you started:
+### Desarrollador Full Stack | PHP · Laravel · JavaScript · SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy desarrollador de software y analista de sistemas con más de 7 años de experiencia en PHP y 5 años trabajando con Laravel y tecnologías web.
+
+Me especializo en crear, mantener y mejorar sistemas de gestión, aplicaciones administrativas y soluciones empresariales.
+
+## 🛠️ Tecnologías
+
+- **Backend:** PHP, Laravel
+- **Frontend:** JavaScript, jQuery, HTML5, CSS3, Bootstrap, Tailwind CSS
+- **Bases de datos:** MySQL, PostgreSQL, SQL Server
+- **Herramientas:** Git, Composer, DataTables, Select2
+- **Reportes:** FPDF, TCPDF
+- **Desarrollo móvil:** Flutter, Kotlin
+
+## 💼 Servicios freelance
+
+- Desarrollo de aplicaciones web con PHP y Laravel
+- Mantenimiento y corrección de errores
+- Implementación de nuevas funcionalidades
+- Consultas SQL y optimización de bases de datos
+- Desarrollo de sistemas administrativos
+- Generación de reportes PDF
+- Automatización de procesos empresariales
+
+## 🚀 Proyectos destacados
+
+### Sistema de gestión documental — Docusys
+Aplicación para administrar documentos, derivaciones, seguimiento de expedientes y reportes.
+
+[Ver repositorio](https://github.com/ruizgomez250/docusys)
+
+### Sistema de control de ventas
+Proyecto orientado a la gestión comercial y operaciones administrativas.
+
+[Ver repositorio](https://github.com/ruizgomez250/controlventa)
+
+### Sistema de gestión agropecuaria
+Solución informática orientada a procesos de administración del sector agropecuario.
+
+[Ver repositorio](https://github.com/ruizgomez250/agro-cj)
+
+## 🤝 Trabajemos juntos
+
+Estoy interesado en proyectos remotos, colaboraciones freelance, desarrollo de funcionalidades y mantenimiento continuo de aplicaciones.
+
+**Comunicación:** Español
+
+[Mi perfil de LinkedIn](https://www.linkedin.com/in/jorge-ruiz-ba79a325b)
+
+---
+
+*Desarrollo de software enfocado en soluciones prácticas, mantenibles y eficientes.*
+  
